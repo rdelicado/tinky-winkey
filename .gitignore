@@ -1,0 +1,19 @@
+*
+!.vscode
+!.vscode/**
+!doc
+!doc/**
+doc/tinky-winkey\ 2.0.pdf
+doc/*.exe
+!svc
+!svc/**
+svc/build
+svc/bin
+!winkey
+!winkey/**
+winkey/build
+winkey/bin
+!Makefile
+!build.bat
+!README.md
+!.gitignore
